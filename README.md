@@ -382,6 +382,7 @@ CLIENT_URL=https://your-frontend-domain.com
 ### CSV Upload
 ![Upload](client/public/screenshots/upload-csv.png)
 *Drag-and-drop CSV upload with auto-categorization*
+*Drag-and-drop CSV upload with auto-categorization*
 
 ## 🔮 Future Enhancements
 
